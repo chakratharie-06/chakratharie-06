@@ -22,7 +22,7 @@ Passionate about building AI-powered applications that solve real-world problems
 - 💻 Interested in AI, Full Stack Development and Cloud Computing
 - 🚀 Building impactful AI projects
 - 🎯 Placement Goal: JP Morgan | Amazon | AlphaSense
-- 📫 Reach me: **yourmail@example.com**
+- 📫 Reach me: **chakratharievadivelan@gmail.com**
 
 ---
 
@@ -41,11 +41,11 @@ Passionate about building AI-powered applications that solve real-world problems
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/(https://www.linkedin.com/in/chakratharie/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/chakratharie-06">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
