@@ -41,7 +41,7 @@ Passionate about building AI-powered applications that solve real-world problems
 
 <p align="center">
 
-<a href="https://linkedin.com/in/(https://www.linkedin.com/in/chakratharie/)">
+<a href="https://linkedin.com/in/(chakratharie/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -133,7 +133,7 @@ Personal Finance Management System
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAKRATHARIE V&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -143,7 +143,7 @@ Personal Finance Management System
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CHAKRATHARIE V&theme=algolia&row=1&column=6"/>
 
 </p>
 
@@ -153,7 +153,7 @@ Personal Finance Management System
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAKRATHARIE V&theme=tokyo-night"/>
 
 </p>
 
@@ -163,7 +163,7 @@ Personal Finance Management System
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHAKRATHARIE V&theme=github_dark"/>
 
 </p>
 
@@ -173,7 +173,7 @@ Personal Finance Management System
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=CHAKRATHARIE V&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
