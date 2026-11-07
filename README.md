@@ -105,7 +105,7 @@ Machine Learning project that detects fake job postings.
 
 ---
 
-### 📊 AssetFlow
+### 📊 FinAssist
 
 Personal Finance Management System
 
